@@ -1,0 +1,40 @@
+{
+  "app/page.tsx -> @/components/dashboard/Dashboard": {
+    "id": "app/page.tsx -> @/components/dashboard/Dashboard",
+    "files": [
+      "static/chunks/_app-pages-browser_components_dashboard_Dashboard_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/components/flow/InsightFlow": {
+    "id": "app/page.tsx -> @/components/flow/InsightFlow",
+    "files": [
+      "static/chunks/_app-pages-browser_components_flow_InsightFlow_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/components/hero/HeroSection": {
+    "id": "app/page.tsx -> @/components/hero/HeroSection",
+    "files": [
+      "static/chunks/_app-pages-browser_components_hero_HeroSection_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/components/signature/SignatureInteraction": {
+    "id": "app/page.tsx -> @/components/signature/SignatureInteraction",
+    "files": [
+      "static/chunks/_app-pages-browser_components_signature_SignatureInteraction_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/components/terminal/Terminal": {
+    "id": "app/page.tsx -> @/components/terminal/Terminal",
+    "files": [
+      "static/chunks/_app-pages-browser_components_terminal_Terminal_tsx.js"
+    ]
+  },
+  "node_modules/@react-three/drei/core/VideoTexture.js -> hls.js": {
+    "id": "node_modules/@react-three/drei/core/VideoTexture.js -> hls.js",
+    "files": []
+  },
+  "node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": "node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision",
+    "files": []
+  }
+}

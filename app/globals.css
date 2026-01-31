@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-zinc-800;
+  }
+  body {
+    @apply bg-black text-white antialiased;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-b from-white to-zinc-500 bg-clip-text text-transparent;
+  }
+}
