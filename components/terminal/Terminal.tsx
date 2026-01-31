@@ -19,7 +19,7 @@ const SYSTEM_RESPONSES = [
   "Predictive modeling converged after 847 iterations. Forecast accuracy improved by 23%. Next quarter revenue projection: $4.7M ± $340K.",
   "Cross-domain entity resolution completed. 1.2M entities linked across 5 knowledge graphs. Disambiguation confidence: 91%.",
   "Automated insight generation enabled. 34 actionable recommendations surfaced from Q4 data. Priority flags: 7 high-impact opportunities.",
-];
+]; 
 
 export default function Terminal() {
   const [messages, setMessages] = useState<Message[]>([
